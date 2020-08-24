@@ -1,0 +1,15 @@
+.objectionForm
+{
+	width: 500px;
+	font-size: 30px;
+	margin: 150px;
+	border: solid 1px green;
+	border-radius: 20px;
+}
+
+.objectionForm input,label,textarea
+{
+	width: 90%;
+	padding: 20px;
+	margin: 10px;
+}
